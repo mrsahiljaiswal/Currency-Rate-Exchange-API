@@ -17,15 +17,28 @@ This API delivers detailed information on over 180 global currencies, including:
 
 ```json
 {
-  "currencyCode": "INR",
-  "currencyName": "Indian Rupee",
-  "symbol": "₹",
-  "countryName": "India",
-  "countryCode": "IN",
-  "flagImage": "https://cdn.flagcdn.com/w320/in.png",
-  "exchangeRate": 73.58
+    "currencyCode": "INR",
+    "currencyName": "Indian Rupee",
+    "currencySymbol": "₹",
+    "countryName": "India",
+    "countryCode": "IN",
+    "flagImage": "https://flagcdn.com/w320/in.png",
+    "rates": {
+        "date": "2024-09-25",
+        "inr": {
+            "1000sats": 38.11256604,
+            "1inch": 0.039452258,
+            "ada": 0.030587888,
+            "eur": 0.010692011,
+            "usd": 0.011963938,
+        
+            // Over 200 currencies available
+        }
+    }
 }
+
 ```
+
 
 ## Features
 
@@ -74,9 +87,7 @@ This endpoint returns the complete information of the curry in JSON format.
             "ada": 0.030587888,
             "eur": 0.010692011,
             "usd": 0.011963938,
-            .
-            .
-            .
+        
             // Over 200 currencies available
         }
     }
