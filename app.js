@@ -23,7 +23,7 @@ currencyData.forEach(currency => {
         countryCode: currency.countryCode
     };
 });
-app.get('/api/currency/:currencyCode', async (req, res) => {
+app.get('/:currencyCode', async (req, res) => {
     const currencyCode = req.params.currencyCode.toUpperCase();
 
     // Get currency details from your local JSON
