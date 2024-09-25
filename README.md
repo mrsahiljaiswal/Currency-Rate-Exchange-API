@@ -113,12 +113,15 @@ This endpoint returns the complete information of the currency in JSON format.
 
 - The `app.js` and `currencyDatabase.json` are hidden and protected from public access. Only the API and static files are served to users.
 
+---
+
+### [Click to access the API](https://currency-rate-exchange-api.onrender.com/inr)
+
 ## License
 
 This project is licensed under the **MIT License**. You are free to use, modify, and distribute this API, provided that proper credit is given to the original author. 
 
 For more information, see the [LICENSE](LICENSE) file.
 
----
 
-### [Click to access the API](https://currency-rate-exchange-api.onrender.com/inr)
+
