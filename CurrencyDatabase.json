@@ -1,0 +1,1212 @@
+[
+    {
+        "currencySymbol": "؋",
+        "currencyCode": "AFN",
+        "currencyName": "Afghan Afghani",
+        "countryName": "Afghanistan",
+        "countryCode": "AF",
+        "flagImage": "https://flagcdn.com/w320/af.png"
+    },
+    {
+        "currencySymbol": "L",
+        "currencyCode": "ALL",
+        "currencyName": "Albanian Lek",
+        "countryName": "Albania",
+        "countryCode": "AL",
+        "flagImage": "https://flagcdn.com/w320/al.png"
+    },
+    {
+        "currencySymbol": "֏",
+        "currencyCode": "AMD",
+        "currencyName": "Armenian Dram",
+        "countryName": "Armenia",
+        "countryCode": "AM",
+        "flagImage": "https://flagcdn.com/w320/am.png"
+    },
+    {
+        "currencySymbol": "ƒ",
+        "currencyCode": "ANG",
+        "currencyName": "Netherlands Antillean Guilder",
+        "countryName": "Sint Maarten",
+        "countryCode": "SX",
+        "flagImage": "https://flagcdn.com/w320/sx.png"
+    },
+    {
+        "currencySymbol": "Kz",
+        "currencyCode": "AOA",
+        "currencyName": "Angolan Kwanza",
+        "countryName": "Angola",
+        "countryCode": "AO",
+        "flagImage": "https://flagcdn.com/w320/ao.png"
+    },
+    {
+        "currencySymbol": "$",
+        "currencyCode": "ARS",
+        "currencyName": "Argentine Peso",
+        "countryName": "Argentina",
+        "countryCode": "AR",
+        "flagImage": "https://flagcdn.com/w320/ar.png"
+    },
+    {
+        "currencySymbol": "A$",
+        "currencyCode": "AUD",
+        "currencyName": "Australian Dollar",
+        "countryName": "Australia",
+        "countryCode": "AU",
+        "flagImage": "https://flagcdn.com/w320/au.png"
+    },
+    {
+        "currencySymbol": "ƒ",
+        "currencyCode": "AWG",
+        "currencyName": "Aruban Florin",
+        "countryName": "Aruba",
+        "countryCode": "AW",
+        "flagImage": "https://flagcdn.com/w320/aw.png"
+    },
+    {
+        "currencySymbol": "₼",
+        "currencyCode": "AZN",
+        "currencyName": "Azerbaijani Manat",
+        "countryName": "Azerbaijan",
+        "countryCode": "AZ",
+        "flagImage": "https://flagcdn.com/w320/az.png"
+    },
+    {
+        "currencySymbol": "KM",
+        "currencyCode": "BAM",
+        "currencyName": "Bosnia-Herzegovina Convertible Mark",
+        "countryName": "Bosnia and Herzegovina",
+        "countryCode": "BA",
+        "flagImage": "https://flagcdn.com/w320/ba.png"
+    },
+    {
+        "currencySymbol": "$",
+        "currencyCode": "BBD",
+        "currencyName": "Barbadian Dollar",
+        "countryName": "Barbados",
+        "countryCode": "BB",
+        "flagImage": "https://flagcdn.com/w320/bb.png"
+    },
+    {
+        "currencySymbol": "৳",
+        "currencyCode": "BDT",
+        "currencyName": "Bangladeshi Taka",
+        "countryName": "Bangladesh",
+        "countryCode": "BD",
+        "flagImage": "https://flagcdn.com/w320/bd.png"
+    },
+    {
+        "currencySymbol": "лв",
+        "currencyCode": "BGN",
+        "currencyName": "Bulgarian Lev",
+        "countryName": "Bulgaria",
+        "countryCode": "BG",
+        "flagImage": "https://flagcdn.com/w320/bg.png"
+    },
+    {
+        "currencySymbol": ".د.ب",
+        "currencyCode": "BHD",
+        "currencyName": "Bahraini Dinar",
+        "countryName": "Bahrain",
+        "countryCode": "BH",
+        "flagImage": "https://flagcdn.com/w320/bh.png"
+    },
+    {
+        "currencySymbol": "$",
+        "currencyCode": "BMD",
+        "currencyName": "Bermudian Dollar",
+        "countryName": "Bermuda",
+        "countryCode": "BM",
+        "flagImage": "https://flagcdn.com/w320/bm.png"
+    },
+    {
+        "currencySymbol": "$",
+        "currencyCode": "BND",
+        "currencyName": "Brunei Dollar",
+        "countryName": "Brunei",
+        "countryCode": "BN",
+        "flagImage": "https://flagcdn.com/w320/bn.png"
+    },
+    {
+        "currencySymbol": "Bs.",
+        "currencyCode": "BOB",
+        "currencyName": "Bolivian Boliviano",
+        "countryName": "Bolivia",
+        "countryCode": "BO",
+        "flagImage": "https://flagcdn.com/w320/bo.png"
+    },
+    {
+        "currencySymbol": "R$",
+        "currencyCode": "BRL",
+        "currencyName": "Brazilian Real",
+        "countryName": "Brazil",
+        "countryCode": "BR",
+        "flagImage": "https://flagcdn.com/w320/br.png"
+    },
+    {
+        "currencySymbol": "$",
+        "currencyCode": "BSD",
+        "currencyName": "Bahamian Dollar",
+        "countryName": "Bahamas",
+        "countryCode": "BS",
+        "flagImage": "https://flagcdn.com/w320/bs.png"
+    },
+    {
+        "currencySymbol": "Nu.",
+        "currencyCode": "BTN",
+        "currencyName": "Bhutanese Ngultrum",
+        "countryName": "Bhutan",
+        "countryCode": "BT",
+        "flagImage": "https://flagcdn.com/w320/bt.png"
+    },
+    {
+        "currencySymbol": "P",
+        "currencyCode": "BWP",
+        "currencyName": "Botswana Pula",
+        "countryName": "Botswana",
+        "countryCode": "BW",
+        "flagImage": "https://flagcdn.com/w320/bw.png"
+    },
+    {
+        "currencySymbol": "Br",
+        "currencyCode": "BYN",
+        "currencyName": "Belarusian Ruble",
+        "countryName": "Belarus",
+        "countryCode": "BY",
+        "flagImage": "https://flagcdn.com/w320/by.png"
+    },
+    {
+        "currencySymbol": "$",
+        "currencyCode": "BZD",
+        "currencyName": "Belize Dollar",
+        "countryName": "Belize",
+        "countryCode": "BZ",
+        "flagImage": "https://flagcdn.com/w320/bz.png"
+    },
+    {
+        "currencySymbol": "$",
+        "currencyCode": "CAD",
+        "currencyName": "Canadian Dollar",
+        "countryName": "Canada",
+        "countryCode": "CA",
+        "flagImage": "https://flagcdn.com/w320/ca.png"
+    },
+    {
+        "currencySymbol": "Fr.",
+        "currencyCode": "CHF",
+        "currencyName": "Swiss Franc",
+        "countryName": "Switzerland",
+        "countryCode": "CH",
+        "flagImage": "https://flagcdn.com/w320/ch.png"
+    },
+    {
+        "currencySymbol": "$",
+        "currencyCode": "CLP",
+        "currencyName": "Chilean Peso",
+        "countryName": "Chile",
+        "countryCode": "CL",
+        "flagImage": "https://flagcdn.com/w320/cl.png"
+    },
+    {
+        "currencySymbol": "¥",
+        "currencyCode": "CNY",
+        "currencyName": "Chinese Yuan",
+        "countryName": "China",
+        "countryCode": "CN",
+        "flagImage": "https://flagcdn.com/w320/cn.png"
+    },
+    {
+        "currencySymbol": "$",
+        "currencyCode": "COP",
+        "currencyName": "Colombian Peso",
+        "countryName": "Colombia",
+        "countryCode": "CO",
+        "flagImage": "https://flagcdn.com/w320/co.png"
+    },
+    {
+        "currencySymbol": "₡",
+        "currencyCode": "CRC",
+        "currencyName": "Costa Rican Colón",
+        "countryName": "Costa Rica",
+        "countryCode": "CR",
+        "flagImage": "https://flagcdn.com/w320/cr.png"
+    },
+    {
+        "currencySymbol": "$",
+        "currencyCode": "CVE",
+        "currencyName": "Cape Verdean Escudo",
+        "countryName": "Cabo Verde",
+        "countryCode": "CV",
+        "flagImage": "https://flagcdn.com/w320/cv.png"
+    },
+    {
+        "currencySymbol": "Kč",
+        "currencyCode": "CZK",
+        "currencyName": "Czech Koruna",
+        "countryName": "Czech Republic",
+        "countryCode": "CZ",
+        "flagImage": "https://flagcdn.com/w320/cz.png"
+    },
+
+        {
+        "currencySymbol": "Fdj",
+        "currencyCode": "DJF",
+        "currencyName": "Djiboutian Franc",
+        "countryName": "Djibouti",
+        "countryCode": "DJ",
+        "flagImage": "https://flagcdn.com/w320/dj.png"
+    },
+    {
+        "currencySymbol": "kr",
+        "currencyCode": "DKK",
+        "currencyName": "Danish Krone",
+        "countryName": "Denmark",
+        "countryCode": "DK",
+        "flagImage": "https://flagcdn.com/w320/dk.png"
+    },
+    {
+        "currencySymbol": "$",
+        "currencyCode": "DOP",
+        "currencyName": "Dominican Peso",
+        "countryName": "Dominican Republic",
+        "countryCode": "DO",
+        "flagImage": "https://flagcdn.com/w320/do.png"
+    },
+    {
+        "currencySymbol": "د.ج",
+        "currencyCode": "DZD",
+        "currencyName": "Algerian Dinar",
+        "countryName": "Algeria",
+        "countryCode": "DZ",
+        "flagImage": "https://flagcdn.com/w320/dz.png"
+    },
+    {
+        "currencySymbol": "£",
+        "currencyCode": "EGP",
+        "currencyName": "Egyptian Pound",
+        "countryName": "Egypt",
+        "countryCode": "EG",
+        "flagImage": "https://flagcdn.com/w320/eg.png"
+    },
+    {
+        "currencySymbol": "Nfk",
+        "currencyCode": "ERN",
+        "currencyName": "Eritrean Nakfa",
+        "countryName": "Eritrea",
+        "countryCode": "ER",
+        "flagImage": "https://flagcdn.com/w320/er.png"
+    },
+    {
+        "currencySymbol": "Br",
+        "currencyCode": "ETB",
+        "currencyName": "Ethiopian Birr",
+        "countryName": "Ethiopia",
+        "countryCode": "ET",
+        "flagImage": "https://flagcdn.com/w320/et.png"
+    },
+    {
+        "currencySymbol": "€",
+        "currencyCode": "EUR",
+        "currencyName": "Euro",
+        "countryName": "Eurozone",
+        "countryCode": "EU",
+        "flagImage": "https://flagcdn.com/w320/eu.png"
+    },
+    {
+        "currencySymbol": "FJ$",
+        "currencyCode": "FJD",
+        "currencyName": "Fijian Dollar",
+        "countryName": "Fiji",
+        "countryCode": "FJ",
+        "flagImage": "https://flagcdn.com/w320/fj.png"
+    },
+    {
+        "currencySymbol": "£",
+        "currencyCode": "FKP",
+        "currencyName": "Falkland Islands Pound",
+        "countryName": "Falkland Islands",
+        "countryCode": "FK",
+        "flagImage": "https://flagcdn.com/w320/fk.png"
+    },
+    {
+        "currencySymbol": "£",
+        "currencyCode": "GBP",
+        "currencyName": "British Pound Sterling",
+        "countryName": "United Kingdom",
+        "countryCode": "GB",
+        "flagImage": "https://flagcdn.com/w320/gb.png"
+    },
+    {
+        "currencySymbol": "₾",
+        "currencyCode": "GEL",
+        "currencyName": "Georgian Lari",
+        "countryName": "Georgia",
+        "countryCode": "GE",
+        "flagImage": "https://flagcdn.com/w320/ge.png"
+    },
+    {
+        "currencySymbol": "GH₵",
+        "currencyCode": "GHS",
+        "currencyName": "Ghanaian Cedi",
+        "countryName": "Ghana",
+        "countryCode": "GH",
+        "flagImage": "https://flagcdn.com/w320/gh.png"
+    },
+    {
+        "currencySymbol": "£",
+        "currencyCode": "GIP",
+        "currencyName": "Gibraltar Pound",
+        "countryName": "Gibraltar",
+        "countryCode": "GI",
+        "flagImage": "https://flagcdn.com/w320/gi.png"
+    },
+    {
+        "currencySymbol": "D",
+        "currencyCode": "GMD",
+        "currencyName": "Gambian Dalasi",
+        "countryName": "Gambia",
+        "countryCode": "GM",
+        "flagImage": "https://flagcdn.com/w320/gm.png"
+    },
+    {
+        "currencySymbol": "FG",
+        "currencyCode": "GNF",
+        "currencyName": "Guinean Franc",
+        "countryName": "Guinea",
+        "countryCode": "GN",
+        "flagImage": "https://flagcdn.com/w320/gn.png"
+    },
+    {
+        "currencySymbol": "Q",
+        "currencyCode": "GTQ",
+        "currencyName": "Guatemalan Quetzal",
+        "countryName": "Guatemala",
+        "countryCode": "GT",
+        "flagImage": "https://flagcdn.com/w320/gt.png"
+    },
+    {
+        "currencySymbol": "$",
+        "currencyCode": "GYD",
+        "currencyName": "Guyanese Dollar",
+        "countryName": "Guyana",
+        "countryCode": "GY",
+        "flagImage": "https://flagcdn.com/w320/gy.png"
+    },
+    {
+        "currencySymbol": "HK$",
+        "currencyCode": "HKD",
+        "currencyName": "Hong Kong Dollar",
+        "countryName": "Hong Kong",
+        "countryCode": "HK",
+        "flagImage": "https://flagcdn.com/w320/hk.png"
+    },
+    {
+        "currencySymbol": "L",
+        "currencyCode": "HNL",
+        "currencyName": "Honduran Lempira",
+        "countryName": "Honduras",
+        "countryCode": "HN",
+        "flagImage": "https://flagcdn.com/w320/hn.png"
+    },
+    {
+        "currencySymbol": "kn",
+        "currencyCode": "HRK",
+        "currencyName": "Croatian Kuna",
+        "countryName": "Croatia",
+        "countryCode": "HR",
+        "flagImage": "https://flagcdn.com/w320/hr.png"
+    },
+    {
+        "currencySymbol": "G",
+        "currencyCode": "HTG",
+        "currencyName": "Haitian Gourde",
+        "countryName": "Haiti",
+        "countryCode": "HT",
+        "flagImage": "https://flagcdn.com/w320/ht.png"
+    },
+    {
+        "currencySymbol": "Ft",
+        "currencyCode": "HUF",
+        "currencyName": "Hungarian Forint",
+        "countryName": "Hungary",
+        "countryCode": "HU",
+        "flagImage": "https://flagcdn.com/w320/hu.png"
+    },
+    {
+        "currencySymbol": "Rp",
+        "currencyCode": "IDR",
+        "currencyName": "Indonesian Rupiah",
+        "countryName": "Indonesia",
+        "countryCode": "ID",
+        "flagImage": "https://flagcdn.com/w320/id.png"
+    },
+    {
+        "currencySymbol": "₪",
+        "currencyCode": "ILS",
+        "currencyName": "Israeli New Shekel",
+        "countryName": "Israel",
+        "countryCode": "IL",
+        "flagImage": "https://flagcdn.com/w320/il.png"
+    },
+    {
+        "currencySymbol": "£",
+        "currencyCode": "IMP",
+        "currencyName": "Isle of Man Pound",
+        "countryName": "Isle of Man",
+        "countryCode": "IM",
+        "flagImage": "https://flagcdn.com/w320/im.png"
+    },
+    {
+        "currencySymbol": "₹",
+        "currencyCode": "INR",
+        "currencyName": "Indian Rupee",
+        "countryName": "India",
+        "countryCode": "IN",
+        "flagImage": "https://flagcdn.com/w320/in.png"
+    },
+    {
+        "currencySymbol": "ع.د",
+        "currencyCode": "IQD",
+        "currencyName": "Iraqi Dinar",
+        "countryName": "Iraq",
+        "countryCode": "IQ",
+        "flagImage": "https://flagcdn.com/w320/iq.png"
+    },
+    {
+        "currencySymbol": "﷼",
+        "currencyCode": "IRR",
+        "currencyName": "Iranian Rial",
+        "countryName": "Iran",
+        "countryCode": "IR",
+        "flagImage": "https://flagcdn.com/w320/ir.png"
+    },
+    {
+        "currencySymbol": "kr",
+        "currencyCode": "ISK",
+        "currencyName": "Icelandic Króna",
+        "countryName": "Iceland",
+        "countryCode": "IS",
+        "flagImage": "https://flagcdn.com/w320/is.png"
+    },
+    {
+        "currencySymbol": "J$",
+        "currencyCode": "JMD",
+        "currencyName": "Jamaican Dollar",
+        "countryName": "Jamaica",
+        "countryCode": "JM",
+        "flagImage": "https://flagcdn.com/w320/jm.png"
+    },
+    {
+        "currencySymbol": "د.أ",
+        "currencyCode": "JOD",
+        "currencyName": "Jordanian Dinar",
+        "countryName": "Jordan",
+        "countryCode": "JO",
+        "flagImage": "https://flagcdn.com/w320/jo.png"
+    },
+    {
+        "currencySymbol": "¥",
+        "currencyCode": "JPY",
+        "currencyName": "Japanese Yen",
+        "countryName": "Japan",
+        "countryCode": "JP",
+        "flagImage": "https://flagcdn.com/w320/jp.png"
+    },
+    {
+        "currencySymbol": "Ksh",
+        "currencyCode": "KES",
+        "currencyName": "Kenyan Shilling",
+        "countryName": "Kenya",
+        "countryCode": "KE",
+        "flagImage": "https://flagcdn.com/w320/ke.png"
+    },
+    {
+        "currencySymbol": "с",
+        "currencyCode": "KGS",
+        "currencyName": "Kyrgyzstani Som",
+        "countryName": "Kyrgyzstan",
+        "countryCode": "KG",
+        "flagImage": "https://flagcdn.com/w320/kg.png"
+    },
+    {
+        "currencySymbol": "៛",
+        "currencyCode": "KHR",
+        "currencyName": "Cambodian Riel",
+        "countryName": "Cambodia",
+        "countryCode": "KH",
+        "flagImage": "https://flagcdn.com/w320/kh.png"
+    },
+    {
+        "currencySymbol": "CF",
+        "currencyCode": "KMF",
+        "currencyName": "Comorian Franc",
+        "countryName": "Comoros",
+        "countryCode": "KM",
+        "flagImage": "https://flagcdn.com/w320/km.png"
+    },
+    {
+        "currencySymbol": "₩",
+        "currencyCode": "KRW",
+        "currencyName": "South Korean Won",
+        "countryName": "South Korea",
+        "countryCode": "KR",
+        "flagImage": "https://flagcdn.com/w320/kr.png"
+    },
+    {
+        "currencySymbol": "د.ك",
+        "currencyCode": "KWD",
+        "currencyName": "Kuwaiti Dinar",
+        "countryName": "Kuwait",
+        "countryCode": "KW",
+        "flagImage": "https://flagcdn.com/w320/kw.png"
+    },
+    {
+        "currencySymbol": "$",
+        "currencyCode": "KYD",
+        "currencyName": "Cayman Islands Dollar",
+        "countryName": "Cayman Islands",
+        "countryCode": "KY",
+        "flagImage": "https://flagcdn.com/w320/ky.png"
+    },
+    {
+        "currencySymbol": "₸",
+        "currencyCode": "KZT",
+        "currencyName": "Kazakhstani Tenge",
+        "countryName": "Kazakhstan",
+        "countryCode": "KZ",
+        "flagImage": "https://flagcdn.com/w320/kz.png"
+    },
+    {
+        "currencySymbol": "₭",
+        "currencyCode": "LAK",
+        "currencyName": "Lao Kip",
+        "countryName": "Laos",
+        "countryCode": "LA",
+        "flagImage": "https://flagcdn.com/w320/la.png"
+    },
+    {
+        "currencySymbol": "ل.ل",
+        "currencyCode": "LBP",
+        "currencyName": "Lebanese Pound",
+        "countryName": "Lebanon",
+        "countryCode": "LB",
+        "flagImage": "https://flagcdn.com/w320/lb.png"
+    },
+    {
+        "currencySymbol": "Rs",
+        "currencyCode": "LKR",
+        "currencyName": "Sri Lankan Rupee",
+        "countryName": "Sri Lanka",
+        "countryCode": "LK",
+        "flagImage": "https://flagcdn.com/w320/lk.png"
+    },
+    {
+        "currencySymbol": "$",
+        "currencyCode": "LRD",
+        "currencyName": "Liberian Dollar",
+        "countryName": "Liberia",
+        "countryCode": "LR",
+        "flagImage": "https://flagcdn.com/w320/lr.png"
+    },
+    {
+        "currencySymbol": "L",
+        "currencyCode": "LSL",
+        "currencyName": "Lesotho Loti",
+        "countryName": "Lesotho",
+        "countryCode": "LS",
+        "flagImage": "https://flagcdn.com/w320/ls.png"
+    },
+    {
+        "currencySymbol": "ل.د",
+        "currencyCode": "LYD",
+        "currencyName": "Libyan Dinar",
+        "countryName": "Libya",
+        "countryCode": "LY",
+        "flagImage": "https://flagcdn.com/w320/ly.png"
+    },
+    {
+        "currencySymbol": "د.م.",
+        "currencyCode": "MAD",
+        "currencyName": "Moroccan Dirham",
+        "countryName": "Morocco",
+        "countryCode": "MA",
+        "flagImage": "https://flagcdn.com/w320/ma.png"
+    },
+    {
+        "currencySymbol": "lei",
+        "currencyCode": "MDL",
+        "currencyName": "Moldovan Leu",
+        "countryName": "Moldova",
+        "countryCode": "MD",
+        "flagImage": "https://flagcdn.com/w320/md.png"
+    },
+    {
+        "currencySymbol": "Ar",
+        "currencyCode": "MGA",
+        "currencyName": "Malagasy Ariary",
+        "countryName": "Madagascar",
+        "countryCode": "MG",
+        "flagImage": "https://flagcdn.com/w320/mg.png"
+    },
+    {
+        "currencySymbol": "ден",
+        "currencyCode": "MKD",
+        "currencyName": "Macedonian Denar",
+        "countryName": "North Macedonia",
+        "countryCode": "MK",
+        "flagImage": "https://flagcdn.com/w320/mk.png"
+    },
+    {
+        "currencySymbol": "K",
+        "currencyCode": "MMK",
+        "currencyName": "Myanmar Kyat",
+        "countryName": "Myanmar",
+        "countryCode": "MM",
+        "flagImage": "https://flagcdn.com/w320/mm.png"
+    },
+    {
+        "currencySymbol": "₮",
+        "currencyCode": "MNT",
+        "currencyName": "Mongolian Tögrög",
+        "countryName": "Mongolia",
+        "countryCode": "MN",
+        "flagImage": "https://flagcdn.com/w320/mn.png"
+    },
+    {
+        "currencySymbol": "MOP$",
+        "currencyCode": "MOP",
+        "currencyName": "Macanese Pataca",
+        "countryName": "Macau",
+        "countryCode": "MO",
+        "flagImage": "https://flagcdn.com/w320/mo.png"
+    },
+    {
+        "currencySymbol": "MRU",
+        "currencyCode": "MRU",
+        "currencyName": "Mauritanian Ouguiya",
+        "countryName": "Mauritania",
+        "countryCode": "MR",
+        "flagImage": "https://flagcdn.com/w320/mr.png"
+    },
+    {
+        "currencySymbol": "₨",
+        "currencyCode": "MUR",
+        "currencyName": "Mauritian Rupee",
+        "countryName": "Mauritius",
+        "countryCode": "MU",
+        "flagImage": "https://flagcdn.com/w320/mu.png"
+    },
+    {
+        "currencySymbol": "Rf",
+        "currencyCode": "MVR",
+        "currencyName": "Maldivian Rufiyaa",
+        "countryName": "Maldives",
+        "countryCode": "MV",
+        "flagImage": "https://flagcdn.com/w320/mv.png"
+    },
+    {
+        "currencySymbol": "MK",
+        "currencyCode": "MWK",
+        "currencyName": "Malawian Kwacha",
+        "countryName": "Malawi",
+        "countryCode": "MW",
+        "flagImage": "https://flagcdn.com/w320/mw.png"
+    },
+    {
+        "currencySymbol": "$",
+        "currencyCode": "MXN",
+        "currencyName": "Mexican Peso",
+        "countryName": "Mexico",
+        "countryCode": "MX",
+        "flagImage": "https://flagcdn.com/w320/mx.png"
+    },
+    {
+        "currencySymbol": "RM",
+        "currencyCode": "MYR",
+        "currencyName": "Malaysian Ringgit",
+        "countryName": "Malaysia",
+        "countryCode": "MY",
+        "flagImage": "https://flagcdn.com/w320/my.png"
+    },
+    {
+        "currencySymbol": "MT",
+        "currencyCode": "MZN",
+        "currencyName": "Mozambican Metical",
+        "countryName": "Mozambique",
+        "countryCode": "MZ",
+        "flagImage": "https://flagcdn.com/w320/mz.png"
+    },
+    {
+        "currencySymbol": "$",
+        "currencyCode": "NAD",
+        "currencyName": "Namibian Dollar",
+        "countryName": "Namibia",
+        "countryCode": "NA",
+        "flagImage": "https://flagcdn.com/w320/na.png"
+    },
+    {
+        "currencySymbol": "₦",
+        "currencyCode": "NGN",
+        "currencyName": "Nigerian Naira",
+        "countryName": "Nigeria",
+        "countryCode": "NG",
+        "flagImage": "https://flagcdn.com/w320/ng.png"
+    },
+    {
+        "currencySymbol": "C$",
+        "currencyCode": "NIO",
+        "currencyName": "Nicaraguan Córdoba",
+        "countryName": "Nicaragua",
+        "countryCode": "NI",
+        "flagImage": "https://flagcdn.com/w320/ni.png"
+    },
+    {
+        "currencySymbol": "kr",
+        "currencyCode": "NOK",
+        "currencyName": "Norwegian Krone",
+        "countryName": "Norway",
+        "countryCode": "NO",
+        "flagImage": "https://flagcdn.com/w320/no.png"
+    },
+    {
+        "currencySymbol": "Rs",
+        "currencyCode": "NPR",
+        "currencyName": "Nepalese Rupee",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "flagImage": "https://flagcdn.com/w320/np.png"
+    },
+    {
+        "currencySymbol": "NZ$",
+        "currencyCode": "NZD",
+        "currencyName": "New Zealand Dollar",
+        "countryName": "New Zealand",
+        "countryCode": "NZ",
+        "flagImage": "https://flagcdn.com/w320/nz.png"
+    },
+    {
+        "currencySymbol": "ر.ع.",
+        "currencyCode": "OMR",
+        "currencyName": "Omani Rial",
+        "countryName": "Oman",
+        "countryCode": "OM",
+        "flagImage": "https://flagcdn.com/w320/om.png"
+    },
+    {
+        "currencySymbol": "B/. ",
+        "currencyCode": "PAB",
+        "currencyName": "Panamanian Balboa",
+        "countryName": "Panama",
+        "countryCode": "PA",
+        "flagImage": "https://flagcdn.com/w320/pa.png"
+    },
+    {
+        "currencySymbol": "S/.",
+        "currencyCode": "PEN",
+        "currencyName": "Peruvian Sol",
+        "countryName": "Peru",
+        "countryCode": "PE",
+        "flagImage": "https://flagcdn.com/w320/pe.png"
+    },
+    {
+        "currencySymbol": "K",
+        "currencyCode": "PGK",
+        "currencyName": "Papua New Guinean Kina",
+        "countryName": "Papua New Guinea",
+        "countryCode": "PG",
+        "flagImage": "https://flagcdn.com/w320/pg.png"
+    },
+    {
+        "currencySymbol": "₱",
+        "currencyCode": "PHP",
+        "currencyName": "Philippine Peso",
+        "countryName": "Philippines",
+        "countryCode": "PH",
+        "flagImage": "https://flagcdn.com/w320/ph.png"
+    },
+    {
+        "currencySymbol": "₨",
+        "currencyCode": "PKR",
+        "currencyName": "Pakistani Rupee",
+        "countryName": "Pakistan",
+        "countryCode": "PK",
+        "flagImage": "https://flagcdn.com/w320/pk.png"
+    },
+    {
+        "currencySymbol": "zł",
+        "currencyCode": "PLN",
+        "currencyName": "Polish Zloty",
+        "countryName": "Poland",
+        "countryCode": "PL",
+        "flagImage": "https://flagcdn.com/w320/pl.png"
+    },
+    {
+        "currencySymbol": "₲",
+        "currencyCode": "PYG",
+        "currencyName": "Paraguayan Guaraní",
+        "countryName": "Paraguay",
+        "countryCode": "PY",
+        "flagImage": "https://flagcdn.com/w320/py.png"
+    },
+    {
+        "currencySymbol": "ر.ق",
+        "currencyCode": "QAR",
+        "currencyName": "Qatari Rial",
+        "countryName": "Qatar",
+        "countryCode": "QA",
+        "flagImage": "https://flagcdn.com/w320/qa.png"
+    },
+    {
+        "currencySymbol": "lei",
+        "currencyCode": "RON",
+        "currencyName": "Romanian Leu",
+        "countryName": "Romania",
+        "countryCode": "RO",
+        "flagImage": "https://flagcdn.com/w320/ro.png"
+    },
+    {
+        "currencySymbol": "дин.",
+        "currencyCode": "RSD",
+        "currencyName": "Serbian Dinar",
+        "countryName": "Serbia",
+        "countryCode": "RS",
+        "flagImage": "https://flagcdn.com/w320/rs.png"
+    },
+    {
+        "currencySymbol": "₽",
+        "currencyCode": "RUB",
+        "currencyName": "Russian Ruble",
+        "countryName": "Russia",
+        "countryCode": "RU",
+        "flagImage": "https://flagcdn.com/w320/ru.png"
+    },
+    {
+        "currencySymbol": "RF",
+        "currencyCode": "RWF",
+        "currencyName": "Rwandan Franc",
+        "countryName": "Rwanda",
+        "countryCode": "RW",
+        "flagImage": "https://flagcdn.com/w320/rw.png"
+    },
+    {
+        "currencySymbol": "ر.س",
+        "currencyCode": "SAR",
+        "currencyName": "Saudi Riyal",
+        "countryName": "Saudi Arabia",
+        "countryCode": "SA",
+        "flagImage": "https://flagcdn.com/w320/sa.png"
+    },
+    {
+        "currencySymbol": "SI$",
+        "currencyCode": "SBD",
+        "currencyName": "Solomon Islands Dollar",
+        "countryName": "Solomon Islands",
+        "countryCode": "SB",
+        "flagImage": "https://flagcdn.com/w320/sb.png"
+    },
+    {
+        "currencySymbol": "₨",
+        "currencyCode": "SCR",
+        "currencyName": "Seychellois Rupee",
+        "countryName": "Seychelles",
+        "countryCode": "SC",
+        "flagImage": "https://flagcdn.com/w320/sc.png"
+    },
+    {
+        "currencySymbol": "ج.س.",
+        "currencyCode": "SDG",
+        "currencyName": "Sudanese Pound",
+        "countryName": "Sudan",
+        "countryCode": "SD",
+        "flagImage": "https://flagcdn.com/w320/sd.png"
+    },
+    {
+        "currencySymbol": "kr",
+        "currencyCode": "SEK",
+        "currencyName": "Swedish Krona",
+        "countryName": "Sweden",
+        "countryCode": "SE",
+        "flagImage": "https://flagcdn.com/w320/se.png"
+    },
+    {
+        "currencySymbol": "S$",
+        "currencyCode": "SGD",
+        "currencyName": "Singapore Dollar",
+        "countryName": "Singapore",
+        "countryCode": "SG",
+        "flagImage": "https://flagcdn.com/w320/sg.png"
+    },
+    {
+        "currencySymbol": "£",
+        "currencyCode": "SHP",
+        "currencyName": "Saint Helena Pound",
+        "countryName": "Saint Helena",
+        "countryCode": "SH",
+        "flagImage": "https://flagcdn.com/w320/sh.png"
+    },
+    {
+        "currencySymbol": "Le",
+        "currencyCode": "SLL",
+        "currencyName": "Sierra Leonean Leone",
+        "countryName": "Sierra Leone",
+        "countryCode": "SL",
+        "flagImage": "https://flagcdn.com/w320/sl.png"
+    },
+    {
+        "currencySymbol": "S",
+        "currencyCode": "SOS",
+        "currencyName": "Somali Shilling",
+        "countryName": "Somalia",
+        "countryCode": "SO",
+        "flagImage": "https://flagcdn.com/w320/so.png"
+    },
+    {
+        "currencySymbol": "$",
+        "currencyCode": "SRD",
+        "currencyName": "Surinamese Dollar",
+        "countryName": "Suriname",
+        "countryCode": "SR",
+        "flagImage": "https://flagcdn.com/w320/sr.png"
+    },
+    {
+        "currencySymbol": "£",
+        "currencyCode": "SSP",
+        "currencyName": "South Sudanese Pound",
+        "countryName": "South Sudan",
+        "countryCode": "SS",
+        "flagImage": "https://flagcdn.com/w320/ss.png"
+    },
+    {
+        "currencySymbol": "Db",
+        "currencyCode": "STN",
+        "currencyName": "São Tomé and Príncipe Dobra",
+        "countryName": "São Tomé and Príncipe",
+        "countryCode": "ST",
+        "flagImage": "https://flagcdn.com/w320/st.png"
+    },
+    {
+        "currencySymbol": "$",
+        "currencyCode": "SVC",
+        "currencyName": "Salvadoran Colón",
+        "countryName": "El Salvador",
+        "countryCode": "SV",
+        "flagImage": "https://flagcdn.com/w320/sv.png"
+    },
+    {
+        "currencySymbol": "ل.س.",
+        "currencyCode": "SYP",
+        "currencyName": "Syrian Pound",
+        "countryName": "Syria",
+        "countryCode": "SY",
+        "flagImage": "https://flagcdn.com/w320/sy.png"
+    },
+    {
+        "currencySymbol": "E",
+        "currencyCode": "SZL",
+        "currencyName": "Swazi Lilangeni",
+        "countryName": "Eswatini",
+        "countryCode": "SZ",
+        "flagImage": "https://flagcdn.com/w320/sz.png"
+    },
+    {
+        "currencySymbol": "฿",
+        "currencyCode": "THB",
+        "currencyName": "Thai Baht",
+        "countryName": "Thailand",
+        "countryCode": "TH",
+        "flagImage": "https://flagcdn.com/w320/th.png"
+    },
+    {
+        "currencySymbol": "SM",
+        "currencyCode": "TJS",
+        "currencyName": "Tajikistani Somoni",
+        "countryName": "Tajikistan",
+        "countryCode": "TJ",
+        "flagImage": "https://flagcdn.com/w320/tj.png"
+    },
+    {
+        "currencySymbol": "T",
+        "currencyCode": "TMT",
+        "currencyName": "Turkmenistani Manat",
+        "countryName": "Turkmenistan",
+        "countryCode": "TM",
+        "flagImage": "https://flagcdn.com/w320/tm.png"
+    },
+    {
+        "currencySymbol": "د.ت",
+        "currencyCode": "TND",
+        "currencyName": "Tunisian Dinar",
+        "countryName": "Tunisia",
+        "countryCode": "TN",
+        "flagImage": "https://flagcdn.com/w320/tn.png"
+    },
+    {
+        "currencySymbol": "T$",
+        "currencyCode": "TOP",
+        "currencyName": "Tongan Paʻanga",
+        "countryName": "Tonga",
+        "countryCode": "TO",
+        "flagImage": "https://flagcdn.com/w320/to.png"
+    },
+    {
+        "currencySymbol": "₺",
+        "currencyCode": "TRY",
+        "currencyName": "Turkish Lira",
+        "countryName": "Turkey",
+        "countryCode": "TR",
+        "flagImage": "https://flagcdn.com/w320/tr.png"
+    },
+    {
+        "currencySymbol": "$",
+        "currencyCode": "TTD",
+        "currencyName": "Trinidad and Tobago Dollar",
+        "countryName": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "flagImage": "https://flagcdn.com/w320/tt.png"
+    },
+    {
+        "currencySymbol": "NT$",
+        "currencyCode": "TWD",
+        "currencyName": "New Taiwan Dollar",
+        "countryName": "Taiwan",
+        "countryCode": "TW",
+        "flagImage": "https://flagcdn.com/w320/tw.png"
+    },
+    {
+        "currencySymbol": "TSh",
+        "currencyCode": "TZS",
+        "currencyName": "Tanzanian Shilling",
+        "countryName": "Tanzania",
+        "countryCode": "TZ",
+        "flagImage": "https://flagcdn.com/w320/tz.png"
+    },
+    {
+        "currencySymbol": "₴",
+        "currencyCode": "UAH",
+        "currencyName": "Ukrainian Hryvnia",
+        "countryName": "Ukraine",
+        "countryCode": "UA",
+        "flagImage": "https://flagcdn.com/w320/ua.png"
+    },
+    {
+        "currencySymbol": "USh",
+        "currencyCode": "UGX",
+        "currencyName": "Ugandan Shilling",
+        "countryName": "Uganda",
+        "countryCode": "UG",
+        "flagImage": "https://flagcdn.com/w320/ug.png"
+    },
+    {
+        "currencySymbol": "$",
+        "currencyCode": "USD",
+        "currencyName": "United States Dollar",
+        "countryName": "United States",
+        "countryCode": "US",
+        "flagImage": "https://flagcdn.com/w320/us.png"
+    },
+    {
+        "currencySymbol": "$U",
+        "currencyCode": "UYU",
+        "currencyName": "Uruguayan Peso",
+        "countryName": "Uruguay",
+        "countryCode": "UY",
+        "flagImage": "https://flagcdn.com/w320/uy.png"
+    },
+    {
+        "currencySymbol": "с",
+        "currencyCode": "UZS",
+        "currencyName": "Uzbekistani Som",
+        "countryName": "Uzbekistan",
+        "countryCode": "UZ",
+        "flagImage": "https://flagcdn.com/w320/uz.png"
+    },
+    {
+        "currencySymbol": "Bs",
+        "currencyCode": "VEF",
+        "currencyName": "Venezuelan Bolívar",
+        "countryName": "Venezuela",
+        "countryCode": "VE",
+        "flagImage": "https://flagcdn.com/w320/ve.png"
+    },
+    {
+        "currencySymbol": "Bs.S.",
+        "currencyCode": "VES",
+        "currencyName": "Venezuelan Bolívar Soberano",
+        "countryName": "Venezuela",
+        "countryCode": "VE",
+        "flagImage": "https://flagcdn.com/w320/ve.png"
+    },
+    {
+        "currencySymbol": "₫",
+        "currencyCode": "VND",
+        "currencyName": "Vietnamese Dong",
+        "countryName": "Vietnam",
+        "countryCode": "VN",
+        "flagImage": "https://flagcdn.com/w320/vn.png"
+    },
+    {
+        "currencySymbol": "FCFA",
+        "currencyCode": "XAF",
+        "currencyName": "Central African CFA Franc",
+        "countryName": "Central African Republic",
+        "countryCode": "CF",
+        "flagImage": "https://flagcdn.com/w320/cf.png"
+    },
+    {
+        "currencySymbol": "$",
+        "currencyCode": "XCD",
+        "currencyName": "East Caribbean Dollar",
+        "countryName": "Eastern Caribbean States",
+        "countryCode": "XCD",
+        "flagImage": "https://flagcdn.com/w320/xcd.png"
+    },
+    {
+        "currencySymbol": "CFA",
+        "currencyCode": "XOF",
+        "currencyName": "West African CFA Franc",
+        "countryName": "Benin",
+        "countryCode": "BJ",
+        "flagImage": "https://flagcdn.com/w320/bj.png"
+    },
+    {
+        "currencySymbol": "F",
+        "currencyCode": "XPF",
+        "currencyName": "CFP Franc",
+        "countryName": "French Pacific Territories",
+        "countryCode": "PF",
+        "flagImage": "https://flagcdn.com/w320/pf.png"
+    },
+    {
+        "currencySymbol": "ر.ي",
+        "currencyCode": "YER",
+        "currencyName": "Yemeni Rial",
+        "countryName": "Yemen",
+        "countryCode": "YE",
+        "flagImage": "https://flagcdn.com/w320/ye.png"
+    },
+    {
+        "currencySymbol": "R",
+        "currencyCode": "ZAR",
+        "currencyName": "South African Rand",
+        "countryName": "South Africa",
+        "countryCode": "ZA",
+        "flagImage": "https://flagcdn.com/w320/za.png"
+    },
+    {
+        "currencySymbol": "ZK",
+        "currencyCode": "ZMW",
+        "currencyName": "Zambian Kwacha",
+        "countryName": "Zambia",
+        "countryCode": "ZM",
+        "flagImage": "https://flagcdn.com/w320/zm.png"
+    },
+    {
+        "currencySymbol": "Z$",
+        "currencyCode": "ZWL",
+        "currencyName": "Zimbabwean Dollar",
+        "countryName": "Zimbabwe",
+        "countryCode": "ZW",
+        "flagImage": "https://flagcdn.com/w320/zw.png"
+    }
+
+]
