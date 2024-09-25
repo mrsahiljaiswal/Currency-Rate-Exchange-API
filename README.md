@@ -1,6 +1,6 @@
 # Currency Rate Exchange API
 
-[Access the Currency Data API](https://currency-rate-exchange-api.onrender.com/inr)
+### [Access the Currency Data API](https://currency-rate-exchange-api.onrender.com/inr)
 
 This API delivers detailed information on over 200 global currencies, including:
 
@@ -69,7 +69,7 @@ This endpoint returns the complete information of the currency in JSON format.
 
 ### **Example:** Get the currency info with INR as base currency
 
- https://currency-rate-exchange-api.onrender.com/inr 
+### https://currency-rate-exchange-api.onrender.com/inr 
  
 
 ### **Sample response:**
@@ -121,4 +121,4 @@ For more information, see the [LICENSE](LICENSE) file.
 
 ---
 
-[Click to access the API](https://currency-rate-exchange-api.onrender.com/inr)
+### [Click to access the API](https://currency-rate-exchange-api.onrender.com/inr)
