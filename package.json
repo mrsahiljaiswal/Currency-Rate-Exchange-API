@@ -1,8 +1,8 @@
 {
   "name": "sahilcurrencyapi",
   "version": "1.0.0",
-  "description": "",
-  "main": "customApi.js",
+  "description": "A currency API built with Node.js and Express",
+  "main": "server.js",
   "scripts": {
   "start": "node server.js"
 },
