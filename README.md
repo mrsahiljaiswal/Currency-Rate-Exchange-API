@@ -2,7 +2,7 @@
 
 [Access the Currency Data API](https://currency-rate-exchange-api.onrender.com/inr)
 
-This API delivers detailed information on over 180 global currencies, including:
+This API delivers detailed information on over 200 global currencies, including:
 
 - Currency code (ISO)
 - Currency name
