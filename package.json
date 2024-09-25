@@ -1,7 +1,7 @@
 {
   "name": "currency-rate-exchange-api",
   "version": "1.0.0",
-  "description": "A robust API providing detailed information on 180+ global currencies. Includes ISO currency codes, currency names, symbols, associated country data, national flags, and real-time exchange rates.",
+  "description": "A robust API providing detailed information on 200 global currencies. Includes ISO currency codes, currency names, symbols, associated country data, national flags, and real-time exchange rates.",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
