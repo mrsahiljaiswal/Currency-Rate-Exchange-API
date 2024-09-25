@@ -1,6 +1,6 @@
 # Currency Rate Exchange API
 
-[Access the Currency Data API](http://localhost:3000/api/currency/inr)
+[Access the Currency Data API](https://currency-rate-exchange-api.onrender.com/inr)
 
 This API delivers detailed information on over 180 global currencies, including:
 
@@ -62,15 +62,17 @@ This API delivers detailed information on over 180 global currencies, including:
 
 This endpoint returns the complete information of the curry in JSON format.
 
+### `Sample Endpoint: inr , usd  , asd , amd`
+
 
 ## Usage Guide
-**Get the currency info with INR as base currency:**
 
-[Sample](https://localhost:3000)
+### **Example:** Get the currency info with INR as base currency
 
+ https://currency-rate-exchange-api.onrender.com/inr 
+ 
 
-
-**Sample response:**
+### **Sample response:**
 ```json
 {
     "currencyCode": "INR",
@@ -94,12 +96,16 @@ This endpoint returns the complete information of the curry in JSON format.
 }
 
 ```
+### **Example:** Incase of Invalid Endpoints  
 
-### `GET /api/currency/:code`
+### **Sample response:**
+```json
+{
+    "message": "Currency not found"
+}
 
-Returns detailed information about a specific currency based on the provided ISO currency code.
+```
 
- Example: `GET /api/currency/inr` will return details about the Indian Rupee.
 
 
 
@@ -115,4 +121,4 @@ For more information, see the [LICENSE](LICENSE) file.
 
 ---
 
-[Access the Currency Data API](http://localhost:3000/api/currency/inr)
+[Click to access the API](https://currency-rate-exchange-api.onrender.com/inr)
