@@ -4,7 +4,7 @@ const fs = require('fs');
 const cors = require('cors'); // Import CORS middleware
 
 const app = express();
-const port = 3000;
+const port = process.env.PORT || 8000;
 
 // Enable CORS
 app.use(cors());

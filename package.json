@@ -2,9 +2,9 @@
   "name": "sahilcurrencyapi",
   "version": "1.0.0",
   "description": "A currency API built with Node.js and Express",
-  "main": "server.js",
+  "main": "app.js",
   "scripts": {
-  "start": "node server.js"
+  "start": "node app.js"
 },
 
   "author": "Sahil Jaiswal",
