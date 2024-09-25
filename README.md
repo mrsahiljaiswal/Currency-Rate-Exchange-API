@@ -60,7 +60,7 @@ This API delivers detailed information on over 180 global currencies, including:
 
 ### `/{currencycode}`
 
-This endpoint returns the complete information of the curry in JSON format.
+This endpoint returns the complete information of the currency in JSON format.
 
 ### `Sample Endpoint: inr , usd  , asd , amd`
 
