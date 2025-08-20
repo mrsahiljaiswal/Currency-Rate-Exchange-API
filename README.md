@@ -13,6 +13,21 @@ This API delivers detailed information on over 200 global currencies, including:
 
 ## Sample Output
 
+### Get All Currency Codes
+### `GET /`
+
+Returns a JSON array of all available currency codes.
+
+**Response Format:**
+```json
+{
+  "success": true,
+  "codes": ["AFN", "ALL", "AMD", ..., "INR", ...],
+  "count": 150
+}
+```
+Using the above code you can get the data of the currency you want. Example: 
+
 ### `GET /inr`
 
 ```json
@@ -58,6 +73,10 @@ This API delivers detailed information on over 200 global currencies, including:
 
 ## API Endpoints
 
+### `/`
+
+This endpoint returns a JSON array of all available currency codes.
+
 ### `/{currencycode}`
 
 This endpoint returns the complete information of the currency in JSON format.
@@ -66,10 +85,27 @@ This endpoint returns the complete information of the currency in JSON format.
 
 
 ## Usage Guide
+### **Example:** Get all the currency codes
+
+### https://currency-rate-exchange-api.onrender.com/
+or 
+### http://localhost:8000/
+
+### **Sample response:**
+```json
+{
+  "success": true,
+  "codes": ["AFN", "ALL", "AMD", ...],
+  "count": 150
+}
+``` 
+
 
 ### **Example:** Get the currency info with INR as base currency
 
-### https://currency-rate-exchange-api.onrender.com/inr 
+### https://currency-rate-exchange-api.onrender.com/inr
+or 
+### http://localhost:8000/inr 
  
 
 ### **Sample response:**
