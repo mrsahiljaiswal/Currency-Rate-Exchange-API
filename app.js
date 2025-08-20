@@ -69,6 +69,23 @@ app.get('/:currencyCode', async (req, res) => {
         return res.status(500).json({ message: 'Error fetching currency rates' });
     }
 });
+// Add this new route before other routes
+app.get('/', (req, res) => {
+    const currencyCodes = currencyData.map(currency => currency.currencyCode);
+    res.json({
+        success: true,
+        codes: currencyCodes,
+        count: currencyCodes.length
+    });
+});
+app.get('/', (req, res) => {
+    const currencyCodes = currencyData.map(currency => currency.currencyCode);
+    res.json({
+        success: true,
+        codes: currencyCodes,
+        count: currencyCodes.length
+    });
+});
 app.get('/', (req, res) => {
     res.sendFile(__dirname + '/public/index.html');
 });
